@@ -1,0 +1,5 @@
+planit
+numpy
+scipy
+matplotlib
+cmasher
